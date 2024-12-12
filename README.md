@@ -15,4 +15,4 @@ Determine the null values.We'll see if we can fill in any values or if the nulls
 Eliminate unnecessary columns that are not relevant to the analysis.
 
 ## Exploratory Data Analysis 
-Use SQL to find specific trends, such as increased layoffs in particular industries and companies and total number of layoffs.
+Used SQL to find specific trends, such as increased layoffs in particular industries and companies and total number of layoffs.
